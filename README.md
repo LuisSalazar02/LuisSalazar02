@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/luissalazar02"><img src="https://api.daily.dev/devcards/v2/WPJOQKY5O2yZlP1ldP5lh.png?type=default&r=s7t" width="356" alt="Luis Salazar's Dev Card"/></a>
+<a href="https://app.daily.dev/luissalazar02"><img src="./devcard.png" width="356" alt="Luis Salazar's Dev Card"/></a>
