@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **LuisSalazar02/LuisSalazar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/luissalazar02"><img src="https://api.daily.dev/devcards/v2/WPJOQKY5O2yZlP1ldP5lh.png?type=default&r=s7t" width="356" alt="Luis Salazar's Dev Card"/></a>
